@@ -13,3 +13,9 @@ p {
     text-align: center;
     color: red;
 }
+
+/*Good practice*/
+h1, h2, p {
+    text-align: center;
+    color: red;
+}
