@@ -4,3 +4,8 @@
 }
 
 /*You can also specify that only specific HTML elements should be affected by a class.*/
+
+p.center {
+    text-align: center;
+    color: red;
+}
