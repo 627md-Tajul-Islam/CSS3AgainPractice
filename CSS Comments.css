@@ -6,3 +6,11 @@ p {
 p {
     color: red;  /* Set text color to red */
 }
+
+/* This is
+a multi-line
+comment */
+
+p {
+    color: red;
+}
