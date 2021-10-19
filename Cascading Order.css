@@ -5,4 +5,5 @@ Inline style (inside an HTML element)
 External and internal style sheets (in the head section)
 Browser default
 
+So, an inline style has the highest priority, and will override external and internal styles and browser defaults.
 */
