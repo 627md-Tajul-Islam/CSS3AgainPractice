@@ -1,0 +1,7 @@
+/*Bad Practice*/
+body {
+    background-color: #ffffff;
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+}
